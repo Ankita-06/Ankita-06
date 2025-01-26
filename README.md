@@ -35,8 +35,6 @@
 - 📫 How to reach me **ankitaambekar06@gmail.com**
 
 - 📄 Know about [my experiences](https://ankitaambekar-portfolio.web.app/)
-
-- ⚡ Fun fact **I think I'm funny**
   
 - 🤝  I'm open to collaborating on Open Source
 
