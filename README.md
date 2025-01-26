@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **ankitaambekar06@gmail.com**
 
-- 📄 Know about [my experiences](https://ankitaambekar-portfolio.web.app/)
+- 📄 Know about [my experiences](https://ankitaambekar-portfolio.web.app/assets/images/AnkitaAmbekarResume.pdf)
   
 - 🤝  I'm open to collaborating on Open Source
 
