@@ -34,7 +34,7 @@
 
 - 📫 How to reach me **ankitaambekar06@gmail.com**
 
-- 📄 Know about my experiences [my experiences](https://ankitaambekar-portfolio.web.app/)
+- 📄 Know about [my experiences](https://ankitaambekar-portfolio.web.app/)
 
 - ⚡ Fun fact **I think I'm funny**
   
